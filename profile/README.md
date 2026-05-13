@@ -1,5 +1,5 @@
 ## Nicolas Okuly & Via Schuetz 💻
-## ITS 301 HTML/CSS & 302 JavaScript Certified ✅
+## ITS 301 HTML/CSS, 302 JavaScript, & 305 HTML5 Application Development Certified ✅
 <p align="left">
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.svg" width="50" />
   <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" width="50" />
